@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<ExecutionGuid>E7944B4A4BD7EF62971FC28E1667E467</ExecutionGuid>
+		<CrashGUID>UE4CC-Windows-488282384C6A3CCC780DD793BAEE184B_0000</CrashGUID>
+		<IsEnsure>false</IsEnsure>
+		<IsAssert>false</IsAssert>
+		<CrashType>Crash</CrashType>
+		<ErrorMessage>Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000000000000280</ErrorMessage>
+		<CrashReporterMessage />
+		<ProcessId>20244</ProcessId>
+		<SecondsSinceStart>9962</SecondsSinceStart>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<GameName>UE4-TRIANGLE_STRATEGY</GameName>
+		<ExecutableName>TRIANGLE_STRATEGY-Win64-Shipping</ExecutableName>
+		<BuildConfiguration>Shipping</BuildConfiguration>
+		<GameSessionID />
+		<Symbols>**UE4*Release-4.27-CL-0-Win64-Shipping</Symbols>
+		<PlatformName>WindowsNoEditor</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Game</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.27.0-0+++UE4+Release-4.27</EngineVersion>
+		<CommandLine>TRIANGLE_STRATEGY</CommandLine>
+		<LanguageLCID>0</LanguageLCID>
+		<AppDefaultLocale>en-US</AppDefaultLocale>
+		<BuildVersion>++UE4+Release-4.27-CL-0</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<IsRequestingExit>true</IsRequestingExit>
+		<UserName />
+		<BaseDir>D:/Games/Triangle Strategy/TRIANGLE_STRATEGY/Binaries/Win64/</BaseDir>
+		<RootDir>D:/Games/Triangle Strategy/</RootDir>
+		<MachineId>21366EFD48DAA08B8B9465B212C9C832</MachineId>
+		<LoginId>21366efd48daa08b8b9465b212c9c832</LoginId>
+		<EpicAccountId>1d48f846b3744bb8802328b88579ae48</EpicAccountId>
+		<SourceContext />
+		<UserDescription />
+		<UserActivityHint />
+		<CrashDumpMode>0</CrashDumpMode>
+		<GameStateName />
+		<Misc.NumberOfCores>12</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>24</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>AuthenticAMD</Misc.CPUVendor>
+		<Misc.CPUBrand>AMD Ryzen 9 7900X 12-Core Processor</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>NVIDIA GeForce RTX 4070 Ti</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 10 (Release 2009)</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<MemoryStats.TotalPhysical>67814146048</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>64</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>0</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>0</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>0</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>0</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>0</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>0</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<NumMinidumpFramesToIgnore>0</NumMinidumpFramesToIgnore>
+		<CallStack>TRIANGLE_STRATEGY_Win64_Shipping
+TRIANGLE_STRATEGY_Win64_Shipping
+TRIANGLE_STRATEGY_Win64_Shipping
+TRIANGLE_STRATEGY_Win64_Shipping
+TRIANGLE_STRATEGY_Win64_Shipping
+TRIANGLE_STRATEGY_Win64_Shipping
+TRIANGLE_STRATEGY_Win64_Shipping
+TRIANGLE_STRATEGY_Win64_Shipping
+TRIANGLE_STRATEGY_Win64_Shipping
+TRIANGLE_STRATEGY_Win64_Shipping
+TRIANGLE_STRATEGY_Win64_Shipping
+TRIANGLE_STRATEGY_Win64_Shipping
+TRIANGLE_STRATEGY_Win64_Shipping
+TRIANGLE_STRATEGY_Win64_Shipping
+kernel32
+ntdll</CallStack>
+		<PCallStack>TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 1119b04 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 111cf3e TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 110362e TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 110d741 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 110b6eb TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + dd11e8 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 2980a3f TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 2bce87d TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 7e30a0 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 7e37f9 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 7e384a TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 7e4f94 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 7edbd4 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 38fcda2 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</PCallStack>
+		<PCallStackHash>7490D602021C863EF25B767C7B0A9FA8943F1C10</PCallStackHash>
+		<Threads>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 1332120 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 391375e VCRUNTIME140 0x00007ffd81e80000 + f73f ntdll 0x00007ffda53d0000 + a23af ntdll 0x00007ffda53d0000 + 514b4 ntdll 0x00007ffda53d0000 + a0ebe TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 1119b04 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 111cf3e TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 110362e TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 110d741 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 110b6eb TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + dd11e8 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 2980a3f TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 2bce87d TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 7e30a0 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 7e37f9 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 7e384a TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 7e4f94 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 7edbd4 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 38fcda2 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>true</IsCrashed>
+				<Registers />
+				<ThreadID>4556</ThreadID>
+				<ThreadName>GameThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>16420</ThreadID>
+				<ThreadName>TaskGraphThreadNP 0</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>26080</ThreadID>
+				<ThreadName>TaskGraphThreadNP 1</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>9232</ThreadID>
+				<ThreadName>TaskGraphThreadNP 2</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>8628</ThreadID>
+				<ThreadName>TaskGraphThreadNP 3</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>29488</ThreadID>
+				<ThreadName>TaskGraphThreadNP 4</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>26496</ThreadID>
+				<ThreadName>TaskGraphThreadNP 5</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>21944</ThreadID>
+				<ThreadName>TaskGraphThreadNP 6</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>23376</ThreadID>
+				<ThreadName>TaskGraphThreadNP 7</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>19432</ThreadID>
+				<ThreadName>TaskGraphThreadNP 8</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>19256</ThreadID>
+				<ThreadName>TaskGraphThreadNP 9</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>27936</ThreadID>
+				<ThreadName>TaskGraphThreadNP 10</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>20640</ThreadID>
+				<ThreadName>TaskGraphThreadNP 11</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>22056</ThreadID>
+				<ThreadName>TaskGraphThreadNP 12</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>20856</ThreadID>
+				<ThreadName>TaskGraphThreadNP 13</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>6076</ThreadID>
+				<ThreadName>TaskGraphThreadNP 14</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>3208</ThreadID>
+				<ThreadName>TaskGraphThreadNP 15</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>1200</ThreadID>
+				<ThreadName>TaskGraphThreadNP 16</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>4616</ThreadID>
+				<ThreadName>TaskGraphThreadNP 17</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>2008</ThreadID>
+				<ThreadName>TaskGraphThreadNP 18</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>19900</ThreadID>
+				<ThreadName>TaskGraphThreadNP 19</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>23928</ThreadID>
+				<ThreadName>TaskGraphThreadNP 20</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>4512</ThreadID>
+				<ThreadName>TaskGraphThreadNP 21</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>15144</ThreadID>
+				<ThreadName>TaskGraphThreadHP 22</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>20092</ThreadID>
+				<ThreadName>TaskGraphThreadHP 23</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25072</ThreadID>
+				<ThreadName>TaskGraphThreadHP 24</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>14084</ThreadID>
+				<ThreadName>TaskGraphThreadHP 25</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>7396</ThreadID>
+				<ThreadName>TaskGraphThreadHP 26</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>26156</ThreadID>
+				<ThreadName>TaskGraphThreadHP 27</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>23516</ThreadID>
+				<ThreadName>TaskGraphThreadHP 28</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>3640</ThreadID>
+				<ThreadName>TaskGraphThreadHP 29</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25364</ThreadID>
+				<ThreadName>TaskGraphThreadHP 30</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24892</ThreadID>
+				<ThreadName>TaskGraphThreadHP 31</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>5980</ThreadID>
+				<ThreadName>TaskGraphThreadHP 32</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>9800</ThreadID>
+				<ThreadName>TaskGraphThreadHP 33</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>19216</ThreadID>
+				<ThreadName>TaskGraphThreadHP 34</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>27872</ThreadID>
+				<ThreadName>TaskGraphThreadHP 35</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24080</ThreadID>
+				<ThreadName>TaskGraphThreadHP 36</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>7068</ThreadID>
+				<ThreadName>TaskGraphThreadHP 37</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>2364</ThreadID>
+				<ThreadName>TaskGraphThreadHP 38</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>22108</ThreadID>
+				<ThreadName>TaskGraphThreadHP 39</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>3416</ThreadID>
+				<ThreadName>TaskGraphThreadHP 40</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24440</ThreadID>
+				<ThreadName>TaskGraphThreadHP 41</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>10432</ThreadID>
+				<ThreadName>TaskGraphThreadHP 42</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>5560</ThreadID>
+				<ThreadName>TaskGraphThreadHP 43</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25372</ThreadID>
+				<ThreadName>TaskGraphThreadBP 44</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>15340</ThreadID>
+				<ThreadName>TaskGraphThreadBP 45</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>17624</ThreadID>
+				<ThreadName>TaskGraphThreadBP 46</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>28040</ThreadID>
+				<ThreadName>TaskGraphThreadBP 47</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>13492</ThreadID>
+				<ThreadName>TaskGraphThreadBP 48</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>28296</ThreadID>
+				<ThreadName>TaskGraphThreadBP 49</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>27336</ThreadID>
+				<ThreadName>TaskGraphThreadBP 50</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>28704</ThreadID>
+				<ThreadName>TaskGraphThreadBP 51</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24952</ThreadID>
+				<ThreadName>TaskGraphThreadBP 52</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>20744</ThreadID>
+				<ThreadName>TaskGraphThreadBP 53</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>18348</ThreadID>
+				<ThreadName>TaskGraphThreadBP 54</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>3744</ThreadID>
+				<ThreadName>TaskGraphThreadBP 55</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>29304</ThreadID>
+				<ThreadName>TaskGraphThreadBP 56</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>11592</ThreadID>
+				<ThreadName>TaskGraphThreadBP 57</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>16060</ThreadID>
+				<ThreadName>TaskGraphThreadBP 58</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>29504</ThreadID>
+				<ThreadName>TaskGraphThreadBP 59</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>8864</ThreadID>
+				<ThreadName>TaskGraphThreadBP 60</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>17012</ThreadID>
+				<ThreadName>TaskGraphThreadBP 61</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>29544</ThreadID>
+				<ThreadName>TaskGraphThreadBP 62</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>10824</ThreadID>
+				<ThreadName>TaskGraphThreadBP 63</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>8784</ThreadID>
+				<ThreadName>TaskGraphThreadBP 64</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fac81 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fcabc TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>21520</ThreadID>
+				<ThreadName>TaskGraphThreadBP 65</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>20864</ThreadID>
+				<ThreadName>PoolThread 0</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>17716</ThreadID>
+				<ThreadName>PoolThread 1</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>26012</ThreadID>
+				<ThreadName>PoolThread 2</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25088</ThreadID>
+				<ThreadName>PoolThread 3</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>11352</ThreadID>
+				<ThreadName>PoolThread 4</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25352</ThreadID>
+				<ThreadName>PoolThread 5</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>26480</ThreadID>
+				<ThreadName>PoolThread 6</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>5244</ThreadID>
+				<ThreadName>PoolThread 7</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>16732</ThreadID>
+				<ThreadName>PoolThread 8</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>8768</ThreadID>
+				<ThreadName>PoolThread 9</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>29316</ThreadID>
+				<ThreadName>PoolThread 10</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>21072</ThreadID>
+				<ThreadName>PoolThread 11</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24756</ThreadID>
+				<ThreadName>PoolThread 12</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>29668</ThreadID>
+				<ThreadName>PoolThread 13</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>2924</ThreadID>
+				<ThreadName>PoolThread 14</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>10576</ThreadID>
+				<ThreadName>PoolThread 15</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>10908</ThreadID>
+				<ThreadName>PoolThread 16</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>23024</ThreadID>
+				<ThreadName>PoolThread 17</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>15840</ThreadID>
+				<ThreadName>PoolThread 18</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>29068</ThreadID>
+				<ThreadName>PoolThread 19</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>6376</ThreadID>
+				<ThreadName>PoolThread 20</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>17708</ThreadID>
+				<ThreadName>PoolThread 21</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>20648</ThreadID>
+				<ThreadName>PoolThread 22</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>20420</ThreadID>
+				<ThreadName>PoolThread 23</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d664 KERNELBASE 0x00007ffda3000000 + 4b62e TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 22d7a40 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>16244</ThreadID>
+				<ThreadName>HttpManagerThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + aa7b06 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>10768</ThreadID>
+				<ThreadName>OnlineAsyncTaskThreadSteam DefaultInstance</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>13696</ThreadID>
+				<ThreadName>PoolThread 24</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24060</ThreadID>
+				<ThreadName>PoolThread 25</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>29492</ThreadID>
+				<ThreadName>PoolThread 26</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>10924</ThreadID>
+				<ThreadName>PoolThread 27</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fab3b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 248a412 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 248b5f3 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>4284</ThreadID>
+				<ThreadName>RenderThread 2</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d664 KERNELBASE 0x00007ffda3000000 + 4b62e TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134438a TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 248b717 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25192</ThreadID>
+				<ThreadName>RTHeartBeat 2</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 28f202c TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>23168</ThreadID>
+				<ThreadName>FMediaTicker</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 13ab123 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 13a6fb0 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>5716</ThreadID>
+				<ThreadName>FAsyncLoadingThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>29092</ThreadID>
+				<ThreadName>PoolThread 28</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>26768</ThreadID>
+				<ThreadName>PoolThread 29</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>6052</ThreadID>
+				<ThreadName>PoolThread 30</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>26868</ThreadID>
+				<ThreadName>PoolThread 31</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>27212</ThreadID>
+				<ThreadName>PoolThread 32</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>17908</ThreadID>
+				<ThreadName>PoolThread 33</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>15256</ThreadID>
+				<ThreadName>PoolThread 34</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>21736</ThreadID>
+				<ThreadName>PoolThread 35</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>15024</ThreadID>
+				<ThreadName>PoolThread 36</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>17004</ThreadID>
+				<ThreadName>PoolThread 37</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>14792</ThreadID>
+				<ThreadName>PoolThread 38</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 12477bf TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25020</ThreadID>
+				<ThreadName>PoolThread 39</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d664 KERNELBASE 0x00007ffda3000000 + 4b62e TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134438a TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 2fe16a1 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>14908</ThreadID>
+				<ThreadName>ScreenSaverInhibitor</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 27fe605 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>23756</ThreadID>
+				<ThreadName>AudioMixerRenderThread(1)</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 11fab3b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 2a57f00 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>7760</ThreadID>
+				<ThreadName>AudioThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffda53d0000 + 9d064 KERNELBASE 0x00007ffda3000000 + 230ce TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134522b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 14ba252 TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 134373b TRIANGLE_STRATEGY-Win64-Shipping 0x00007ff71aa80000 + 133da11 KERNEL32 0x00007ffda5050000 + 17344 ntdll 0x00007ffda53d0000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>5660</ThreadID>
+				<ThreadName>FAsyncPurge</ThreadName>
+			</Thread>
+		</Threads>
+		<TimeOfCrash>638474669187400000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 10 (Release 2009)  64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+		<Modules>D:\Games\Triangle Strategy\TRIANGLE_STRATEGY\Binaries\Win64\TRIANGLE_STRATEGY-Win64-Shipping.exe
+D:\Games\Triangle Strategy\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbis_64.dll
+D:\Games\Triangle Strategy\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\Apex_Destructible_x64.dll
+D:\Games\Triangle Strategy\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Legacy_x64.dll
+D:\Games\Triangle Strategy\Engine\Binaries\ThirdParty\NVIDIA\NVaftermath\Win64\GFSDK_Aftermath_Lib.x64.dll
+D:\Games\Triangle Strategy\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3_x64.dll
+D:\Games\Triangle Strategy\Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll
+D:\Games\Triangle Strategy\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Clothing_x64.dll
+D:\Games\Triangle Strategy\Engine\Binaries\ThirdParty\Windows\XAudio2_9\x64\xaudio2_9redist.dll
+D:\Games\Triangle Strategy\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEXFramework_x64.dll
+D:\Games\Triangle Strategy\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Common_x64.dll
+D:\Games\Triangle Strategy\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\NvCloth_x64.dll
+D:\Games\Triangle Strategy\Engine\Binaries\ThirdParty\Steamworks\Steamv151\Win64\steam_api64.dll
+D:\Games\Triangle Strategy\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Cooking_x64.dll
+D:\Games\Triangle Strategy\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxPvdSDK_x64.dll
+D:\Games\Triangle Strategy\Engine\Binaries\ThirdParty\Ogg\Win64\VS2015\libogg_64.dll
+D:\Games\Triangle Strategy\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxFoundation_x64.dll
+D:\Games\Triangle Strategy\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbisfile_64.dll</Modules>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<IsRunningOnBattery>false</IsRunningOnBattery>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+	<EngineData>
+		<RHI.IsGPUOverclocked>false</RHI.IsGPUOverclocked>
+		<RHI.RHIName>D3D11</RHI.RHIName>
+		<RHI.AdapterName>NVIDIA GeForce RTX 4070 Ti</RHI.AdapterName>
+		<RHI.UserDriverVersion>551.86</RHI.UserDriverVersion>
+		<RHI.InternalDriverVersion>31.0.15.5186</RHI.InternalDriverVersion>
+		<RHI.DriverDate>3-12-2024</RHI.DriverDate>
+		<RHI.FeatureLevel>SM5</RHI.FeatureLevel>
+		<DeviceProfile.Name>WindowsNoEditor</DeviceProfile.Name>
+		<Platform.AppHasFocus>false</Platform.AppHasFocus>
+	</EngineData>
+	<GameData />
+</FGenericCrashContext>
